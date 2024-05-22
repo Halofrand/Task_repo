@@ -17,3 +17,7 @@ This is another paragraph.
 
 ### Bold --> starting double star and ending double star ( double star )
 **This part is going to be in Bold**
+
+
+### Links
+[This is a link](https://pratham.com)
