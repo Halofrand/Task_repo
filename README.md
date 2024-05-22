@@ -22,12 +22,21 @@ This is another paragraph.
 ### Links
 [This is a link](https://pratham.com)
 
-
+------------
 ### List
 - Item 1
 
+#### un-orderlist
+
 - Item 2
 - Item 3
-  -Item 3.1
-  -Item 3.2
-  -Item 3.3 
+  - Item 3.1
+  - Item 3.2
+  - Item 3.3 
+
+#### order-list
+1. Item 1
+2. Item 2
+3. Item 3
+4. Item 4
+   
