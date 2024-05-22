@@ -21,3 +21,13 @@ This is another paragraph.
 
 ### Links
 [This is a link](https://pratham.com)
+
+
+### List
+- Item 1
+
+- Item 2
+- Item 3
+  -Item 3.1
+  -Item 3.2
+  -Item 3.3 
